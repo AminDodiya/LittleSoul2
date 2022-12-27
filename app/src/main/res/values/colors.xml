@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#2b394d</color>
+    <color name="black">#000000</color>
+    <color name="hintTextColor">#BFBFBF</color>
+    <color name="white">#FFF</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="fontColor1">#0f1a29</color>
+    <color name="fontColor2">#2b394d</color>
+    <color name="fontColor3">#919eab</color>
+    <color name="fontColor4">#5F6D7A</color>
+    <color name="fontColor5">#ffb1c5</color>
+    <color name="btnColor1">#bd1f2e</color>
+    <color name="btnColor1_tran">#80bd1f2e</color>
+    <color name="etHintColor">#c4cdd5</color>
+    <color name="etTextColor">#2b394d</color>
+    <color name="colorGrey">#9e9e9e</color>
+    <color name="subScribeBg">#EEF0F2</color>
+    <color name="bottomShadow">#eaf7fe</color>
+    <color name="yogaBgColor">#fff0ef</color>
+    <color name="white_tran">#26FFFFFF</color>
+    <color name="blank_tran">#26000000</color>
+    <color name="brMindfullmess">#F8F2FE</color>
+    <color name="borderMeditation">#f0ebf6</color>
+    <color name="waveColor">#DDD4E9</color>
+    <color name="breathingBgColor">#eaf7fe</color>
+    <color name="breathingBorderColor">#abe1fb</color>
+    <color name="breathingTypeColor">#DDF2FC</color>
+    <color name="breathingBtn">#ABE0FA</color>
+    <color name="musicBgColor">#fff9dc</color>
+    <color name="musicBgColor1">#f2ce1c</color>
+    <color name="musicBgColor2">#f8e68d</color>
+    <color name="profileBg">#EAF8FF</color>
+    <color name="breathStatus">#96DCFC</color>
+    <color name="cardColor">#F4F4F4</color>
+    <color name="activActivity">#0E1A28</color>
+    <color name="trackingYogaBg">#F2D2D4</color>
+    <color name="trackingMindBg">#F0EBF5</color>
+    <color name="trackingBreathBg">#EAF7FE</color>
+    <color name="trackingMusicBg">#FEF8DB</color>
+    <color name="SubBg">#203754</color>
+    <color name="restoreSub">#7289A8</color>
+    <color name="lightGrey">#DDDDDD</color>
+
+
+</resources>

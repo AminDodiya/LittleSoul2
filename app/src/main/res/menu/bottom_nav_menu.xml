@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:checkable="true"
+        android:icon="@drawable/selector_home_icon"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/navigation_my_video"
+        android:checkable="false"
+        android:icon="@drawable/selector_myvideo_icon"
+        android:title="@string/my_videos" />
+    <item
+        android:id="@+id/navigation_tracking"
+        android:checkable="false"
+        android:icon="@drawable/selector_tracking_icon"
+        android:title="@string/tracking" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:checkable="false"
+        android:icon="@drawable/selector_profile_icon"
+        android:title="@string/profile" />
+</menu>

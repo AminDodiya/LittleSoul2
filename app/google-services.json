@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150908792380",
+    "firebase_url": "https://littlesouls-254fd.firebaseio.com",
+    "project_id": "littlesouls-254fd",
+    "storage_bucket": "littlesouls-254fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150908792380:android:77530f048f0fb105f71d39",
+        "android_client_info": {
+          "package_name": "com.littlesoul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150908792380-km7ob94uf6u8bqilmq749bdlej7vfv0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.littlesoul",
+            "certificate_hash": "189cf5efcee8e56f30c62db0f4493492560c21fd"
+          }
+        },
+        {
+          "client_id": "150908792380-nefq1u0s5rhsinsn9nipj498q63053m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALmjmZ6bcwR1qTMu8LlYxOdQ1NKxyWoMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150908792380-nefq1u0s5rhsinsn9nipj498q63053m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150908792380-jnp367kc40rv4nsnf98k0akiuqvioa1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.littlesoul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
